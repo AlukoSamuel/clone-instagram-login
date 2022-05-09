@@ -13,11 +13,7 @@
 body {
     background-color: #fafafa;
 }
-/* .top-section{
-    border: 1px solid red;
-    place-content: center;
-    padding: 20rem 40rem 10rem 50rem;
-} */
+
 section {
     display: flex;
     justify-content: center;
